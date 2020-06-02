@@ -34,6 +34,7 @@
 
 
 ## Cons.
+* The tcp protocol is not used in all browsers.
 
 
 
