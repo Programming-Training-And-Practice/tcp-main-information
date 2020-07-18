@@ -28,13 +28,24 @@
 
 
 ## Pros.
+* Acknowledgment.
+* Guaranteed delivery.
+* Connection based.
+* Congestion control.
+* Ordered packets.
 
 
 
 
 
 ## Cons.
-* The tcp protocol is not used in all browsers.
+* Large packets.
+* More bandwidth
+* Slower that UDP.
+* Stateful.
+* Server memory (DOS).
+
+* The tcp protocol is not used in all browsers.???????
 
 
 
